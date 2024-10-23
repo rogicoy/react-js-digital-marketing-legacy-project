@@ -1,0 +1,15 @@
+{
+  "comFallbackError": "The message key does not exist",
+  "dasApiCallError": "This error was queued from Saga",
+  "dasApiCallInfo": "This info was queued from Saga",
+  "dasApiCallSuccess": "This success was queued from Saga",
+  "dasApiCallWarning": "This warning was queued from Saga",
+  "dasViewError": "This error was queued from the view component",
+  "dasViewInfo": "This info was queued from the view component",
+  "dasViewSuccess": "This success was queued from the view component",
+  "dasViewWarning": "This warning was queued from the view component",
+  "galFileIsNotSupported": "Your file is not supported.",
+  "galImageHeightError": "Your image is too tall. The max height is 3000px",
+  "galImageTooLargeError": "Your image is too large. The max size is 4MB.",
+  "galImageWidthError": "Your image is too wide. The max width is 3000px"
+}
